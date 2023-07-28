@@ -8,10 +8,12 @@ This Website has been developed for the accomplishment of Future Ready Talent In
 
 Project Link - https://agreeable-island-0146bb810.3.azurestaticapps.net
 
-Project Demo Video Link - 
+Project Demo Video Link - https://youtu.be/z943aFRL-Lk
 
 Azure Technologies Used in Project are:
+
 Static Web Apps
+
 Storage accounts
 
 PROBLEM STATEMENT :
@@ -20,11 +22,17 @@ The traditional travel planning process is often overwhelming and time-consuming
 Project Description :
 "Go Travel" is an ambitious travel website  aimed at revolutionizing the travel planning experience for globetrotters worldwide. With an emphasis on personalization, convenience, and seamless user experience, Go Travel aims to be the go-to platform for travelers seeking unforgettable journeys.
 The website goes through the navigation tools like Home,Tour List,Destinations,Discounts,Our Gallery,Contact .
+
 Home: Our homepage serves as a warm invitation for you to "Explore and Travel".
+
 Tour List: Get ready to be amazed by our extensive tour list-there's something for everyone.
+
 Destinations: Unveil the beauty of the world through our destinations section.
+
 Discounts:We believe that travel should be accessible to everyone. Explore our discounts page to find exclusive offers.
+
 Our Gallery: Prepare to be inspired! Our gallery showcases you with images who like to travel.
+
 Contact: Have questions? Our dedicated support team is here to help you. 
 
 Screenshots :
@@ -53,6 +61,9 @@ Contact
 ![Screenshot (577)](https://github.com/gayathrimummidi/TravelFRT/assets/109512103/c120d262-5379-4c63-9f91-9354a94c725d)
 
 Technologies Used -
+
 Azure(Hosting)
+
 HTML
+
 CSS
